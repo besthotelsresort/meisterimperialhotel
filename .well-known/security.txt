@@ -1,0 +1,4 @@
+Contact: mailto:security@meisterimperialhotel.example
+Expires: 2027-05-28T14:03:47.749Z
+Preferred-Languages: en, de, fr
+Canonical: https://example.com/.well-known/security.txt
